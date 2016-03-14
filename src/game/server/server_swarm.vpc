@@ -1,0 +1,24 @@
+//-----------------------------------------------------------------------------
+//	SERVER_SWARM.VPC
+//
+//	Project Script
+//-----------------------------------------------------------------------------
+
+$Macro SRCDIR		"..\.."
+$Macro GAMENAME 	"mod_swarm"
+
+$Include "$SRCDIR\game\server\server_base.vpc"
+
+$Configuration
+{
+	$Compiler
+	{
+		$AdditionalIncludeDirectories	".\hl2;.\swarm;$SRCDIR\game\shared\multiplayer;$SRCDIR\game\shared\swarm;$BASE"
+		$PreprocessorDefinitions		"$BASE;INFESTED_DLL;SWARM_DLL;"
+	}
+}
+
+$Project "Server (Alien Swarm)"
+{
+	// TODO
+}
