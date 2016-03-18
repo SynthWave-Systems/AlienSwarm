@@ -2,18 +2,17 @@ $Group "game"
 {
 	"client"
 	"server"
-	"missionchooser"
 }
 
 $Group "shaders"
 {
-	"game_shader_dx9"
+//	"game_shader_dx9"
 }
 
 $Group "everything"
 {
 	"client"
 	"server"
-	"missionchooser"
-	"game_shader_dx9"
+//	"missionchooser"
+//	"game_shader_dx9"
 }
