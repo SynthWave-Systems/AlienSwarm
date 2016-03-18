@@ -37,5 +37,4 @@ ENGINE AND/OR THE SDK, EVEN IF VALVE HAS BEEN
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
 ``` 
 ***
-### Contact
 If you would like to use the SDK for a commercial purpose, please contact Valve at: sourceengine@valvesoftware.com
