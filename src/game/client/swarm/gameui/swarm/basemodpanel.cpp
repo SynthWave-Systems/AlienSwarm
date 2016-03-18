@@ -165,6 +165,7 @@ CBaseModPanel::CBaseModPanel(): BaseClass(0, "CBaseModPanel"),
 	Assert(m_CFactoryBasePanel == 0);
 	m_CFactoryBasePanel = this;
 
+	g_pVGuiLocalize->AddFile("Resource/swarm_%language%.txt");
 	g_pVGuiLocalize->AddFile( "Resource/basemodui_%language%.txt");
 
 	m_LevelLoading = false;
