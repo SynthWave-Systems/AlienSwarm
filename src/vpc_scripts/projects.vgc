@@ -13,7 +13,7 @@ $Project "missionchooser"
 	"game\missionchooser\missionchooser_swarm.vpc"	[$SWARM]
 }
 
-$Project "game_shader_dx9"
+$Project "game_shader"
 {
 	"materialsystem\stdshaders\game_shader_dx9.vpc"
 }
