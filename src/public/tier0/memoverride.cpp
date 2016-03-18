@@ -1179,7 +1179,9 @@ typedef struct setloc_struct {
     LCID lcidLanguage;
     LCID lcidCountry;
     /* expand_locale static variables */
+#if _MSC_VER < 1800
     LC_ID       _cacheid;
+#endif
     UINT        _cachecp;
     char        _cachein[MAX_LC_LEN];
     char        _cacheout[MAX_LC_LEN];
