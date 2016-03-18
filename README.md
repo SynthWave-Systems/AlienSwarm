@@ -1,11 +1,11 @@
 ### Alien Swarm, Copyright(c) Valve Corp.
-
+***
 THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE 
 CORPORATION ("Valve").  PLEASE READ IT BEFORE DOWNLOADING OR USING 
 THE SOURCE ENGINE SDK ("SDK"). BY DOWNLOADING AND/OR USING THE 
 SOURCE ENGINE SDK YOU ACCEPT THIS LICENSE. IF YOU DO NOT AGREE TO 
 THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE THE SDK.  
-
+***
   You may, free of charge, download and use the SDK to develop a modified Valve game 
 running on the Source engine.  You may distribute your modified Valve game in source and 
 object code form, but only for free. Terms of use for Valve games are found in the Steam 
@@ -36,5 +36,6 @@ ARISING OUT OF THE USE OF OR INABILITY TO USE THE
 ENGINE AND/OR THE SDK, EVEN IF VALVE HAS BEEN 
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
 ``` 
+***
 ### Contact
 If you would like to use the SDK for a commercial purpose, please contact Valve at: sourceengine@valvesoftware.com
